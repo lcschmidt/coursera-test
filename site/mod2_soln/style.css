@@ -7,21 +7,21 @@ body {
   background-color: blue;
 }
 #content1 {
-  background-color: #90EE90; /*green*/
+  background-color: ##FFA500; /*orange*/
 }
 
 #box2 {
   background-color: blue;
 }
 #content2 {
-  background-color: #90EE90; /*red*/
+  background-color: ##FFFF00; /*yellow*/
 }
 
 #box3 {
   background-color: blue;
 }
 #content3 {
-  background-color: #90EE90; /*blue*/
+  background-color: #00FFFF; /*lightblue*/
 }
 
 h1 {
