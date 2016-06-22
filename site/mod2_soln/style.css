@@ -3,11 +3,25 @@ body {
     font-size: 130 %;
 }
 
-#box {
+#box1 {
   background-color: blue;
 }
-#content {
+#content1 {
   background-color: #90EE90; /*green*/
+}
+
+#box2 {
+  background-color: blue;
+}
+#content2 {
+  background-color: #90EE90; /*red*/
+}
+
+#box3 {
+  background-color: blue;
+}
+#content3 {
+  background-color: #90EE90; /*blue*/
 }
 
 h1 {
