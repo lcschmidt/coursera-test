@@ -20,17 +20,20 @@ p {
 
 
 #content1 {
-  background-color: #DEB887; /*maroon*/
+  background-color: #DEB887; /*beige*/
+  width: 90%;
   margin-left: 10px;
   margin_right: 10px;
 }
 
 #content2 {
   background-color: #5F9EA0; /*slate blue*/
+  width: 90%;
 }
 
 #content3 {
   background-color: #FF7F50; /*salmon*/
+  width: 90%;
 }
 
 /* Simple Responsive Framework. */
