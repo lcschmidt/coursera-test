@@ -20,15 +20,17 @@ p {
 
 
 #content1 {
-  background-color: #FFA500; /*orange*/
+  background-color: #DEB887; /*maroon*/
+  margin-left: 10px;
+  margin_right: 10px;
 }
 
 #content2 {
-  background-color: #FFFF00; /*yellow*/
+  background-color: #5F9EA0; /*slate blue*/
 }
 
 #content3 {
-  background-color: #00FFFF; /*lightblue*/
+  background-color: #FF7F50; /*salmon*/
 }
 
 /* Simple Responsive Framework. */
