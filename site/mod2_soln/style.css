@@ -1,15 +1,17 @@
+* {
+	box-sizing: border-box;
+}
 body {
 	margin: 0;
 	padding: 0;
     background-color: gray;
     font-size: 130 %;
-
 }
 
 #box1 {
   background-color: blue;
   margin: 40px;
-  box-sizing: border-box;
+  
 }
 #content1 {
   background-color: #FFA500; /*orange*/
@@ -18,7 +20,7 @@ body {
 #box2 {
   background-color: blue;
   margin: 40px;
-  box-sizing: border-box;
+  
 }
 #content2 {
   background-color: #FFFF00; /*yellow*/
@@ -27,7 +29,7 @@ body {
 #box3 {
   background-color: blue;
   margin: 40px;
-  box-sizing: border-box;
+  
 }
 #content3 {
   background-color: #00FFFF; /*lightblue*/
