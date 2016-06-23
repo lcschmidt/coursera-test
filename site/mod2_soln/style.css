@@ -32,20 +32,20 @@ h1 {
 	border: 1px solid green;
 	background-color: #FFA500; /*orange*/
 	float: right;
-	text-color: #000000; /*black*/
+	color: #000000; /*black*/
 }
 
 #box2 {
 	border: 1px solid red;
 	background-color: #FFFF00; /*yellow*/
 	float: right;
-	text-color: #FFFFFF; /*white*/
+	color: #FFFFFF; /*white*/
 }
 
 #box3 {
 	border: 1px solid blue;
 	background-color: #00FFFF; /*light blue*/
-	text-color: #00FF00; /*lime*/
+	color: #00FF00; /*lime*/
 	float: right;
 }
 
