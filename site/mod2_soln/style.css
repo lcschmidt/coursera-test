@@ -16,12 +16,15 @@ h2 {
 */
 
 .section {
-  position: relative;
-  background-color: #DEB887; /*beige*/
-  border: 3px #000000;
-  padding: 10px;
-  padding-top: 25px;
-  width: 90%;
+  background-color: #c7c7c7;    
+  border: 3px solid black;    
+  position: relative;    
+  height: 170px;    
+  margin-right: 15px;    
+  margin-left: 15px;    
+  margin-bottom: 15px;    
+  padding: 10px;    
+  padding-top: 35px;
 }
 
 
