@@ -7,10 +7,15 @@ h1 {
     text-align: center;
 }
 
+h2 {
+	color: brown;
+	text-align: left;
+}
+
 .section {
-  border: 3px #000000;
   position: relative;
   background-color: #DEB887; /*beige*/
+  border: 3px #000000;
   padding: 10px;
   padding-top: 35px;
   width: 90%;
