@@ -13,11 +13,23 @@ h2 {
 	color: brown;
 	font-size: 1.25em;
 	text-align: right;
-
 }
 
 p {
 	font-size: 14px;
+}
+
+
+.section {
+  background-color: #c7c7c7;    
+  border: 3px solid black;    
+  position: relative;    
+  height: 170px;    
+  margin-right: 15px;    
+  margin-left: 15px;    
+  margin-bottom: 15px;    
+  padding: 10px;    
+  padding-top: 15px;
 }
 
 #box1 {
@@ -46,19 +58,6 @@ p {
 	float: right;
 	padding-top: 0px;
 }
-.section {
-  background-color: #c7c7c7;    
-  border: 3px solid black;    
-  position: relative;    
-  height: 170px;    
-  margin-right: 15px;    
-  margin-left: 15px;    
-  margin-bottom: 15px;    
-  padding: 10px;    
-  padding-top: 15px;
-}
-
-
 
 
 
