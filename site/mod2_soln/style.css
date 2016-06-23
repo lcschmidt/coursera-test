@@ -48,7 +48,7 @@ h1 {
 	position: relative;
 	border: 1px solid blue;
 	background-color: #00FF00; /*light blue*/
-	color: #00FF00; /*lime*/
+	color: gray; 
 	float: right;
 }
 
