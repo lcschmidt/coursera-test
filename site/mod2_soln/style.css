@@ -39,7 +39,7 @@ h1 {
 #box2 {
 	position: relative;
 	border: 1px solid red;
-	background-color: #FFFF00; /*yellow*/
+	background-color: #000000; /*black*/
 	float: right;
 	color: #FFFFFF; /*white*/
 }
@@ -47,7 +47,7 @@ h1 {
 #box3 {
 	position: relative;
 	border: 1px solid blue;
-	background-color: #00FFFF; /*light blue*/
+	background-color: #00FF00; /*light blue*/
 	color: #00FF00; /*lime*/
 	float: right;
 }
