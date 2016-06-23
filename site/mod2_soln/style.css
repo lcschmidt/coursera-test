@@ -32,7 +32,7 @@ h1 {
 	position: relative;
 	border: 1px solid green;
 	background-color: #FFA500; /*orange*/
-	float: right;
+	float: left;
 	color: #000000; /*black*/
 }
 
@@ -40,16 +40,16 @@ h1 {
 	position: relative;
 	border: 1px solid red;
 	background-color: #000000; /*black*/
-	float: right;
+	float: left;
 	color: #FFFFFF; /*white*/
 }
 
 #box3 {
 	position: relative;
 	border: 1px solid blue;
-	background-color: #00FF00; /*light blue*/
+	background-color: #00FFFF; /*light blue*/
 	color: gray; 
-	float: right;
+	float: left;
 }
 
 
