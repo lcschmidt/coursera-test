@@ -8,8 +8,10 @@ h1 {
 }
 
 h2 {
+	position: relative;
 	color: brown;
 	text-align: left;
+
 }
 
 .section {
@@ -27,7 +29,7 @@ h2 {
 	position: relative;
 	border: 1px solid green;
 	background-color: #FFA500; /*orange*/
-	float: left;
+	float: right;
 	color: #000000; /*black*/
 }
 
@@ -35,7 +37,7 @@ h2 {
 	position: relative;
 	border: 1px solid red;
 	background-color: #000000; /*black*/
-	float: left;
+	float: right;
 	color: #FFFFFF; /*white*/
 }
 
@@ -44,7 +46,7 @@ h2 {
 	border: 1px solid blue;
 	background-color: #00FFFF; /*light blue*/
 	color: gray; 
-	float: left;
+	float: right;
 }
 
 
