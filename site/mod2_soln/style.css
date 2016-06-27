@@ -19,11 +19,12 @@ h1 {
 h2 {
 	color: brown;
 	font-size: 1.25em;
-	text-align: right;
+	float: right;
 }
 
 p {
 	font-size: 14px;
+	clear: both;
 }
 
 
