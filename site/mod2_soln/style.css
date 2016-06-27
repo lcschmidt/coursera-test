@@ -19,6 +19,8 @@ h1 {
 h2 {
 	color: brown;
 	font-size: 1.25em;
+	width: 25px;
+	height: 10px;
 	float: right;
 }
 
