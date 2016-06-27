@@ -19,8 +19,6 @@ h1 {
 h2 {
 	color: brown;
 	font-size: 1.25em;
-	width: 150px;
-	height: 25px;
 	float: right;
 }
 
@@ -36,6 +34,8 @@ p {
 	position: relative;
 	border: 1px solid green;
 	background-color: #FFA500; /*orange*/
+	height: 50px;
+	width: 150;
 	float: right;
 	padding-top: 0px;
 	color: #000000; /*black*/
