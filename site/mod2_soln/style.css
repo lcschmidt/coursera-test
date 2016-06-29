@@ -19,7 +19,7 @@ h1 {
 h2 {
 	color: brown;
 	font-size: 1.25em;
-	float: right;
+	text-align: center;
 }
 
 p {
