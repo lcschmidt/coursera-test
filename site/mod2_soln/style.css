@@ -41,7 +41,7 @@ p {
 	position: relative;
 	border: 1px solid green;
 	background-color: #FFA500; /*orange*/
-	height: 50px;
+	height: 40px;
 	width: 150px;
 	float: right;
 	padding: 0px;
@@ -52,7 +52,7 @@ p {
 	position: relative;
 	border: 1px solid red;
 	background-color: #000000; /*black*/
-	height: 50px;
+	height: 40px;
 	width: 150px;
 	float: right;
 	padding: 0px;
@@ -63,7 +63,7 @@ p {
 	position: relative;
 	border: 1px solid blue;
 	background-color: #00FFFF; /*light blue*/
-	height: 50px;
+	height: 40px;
 	width: 150px;	
 	color: gray; 
 	float: right;
@@ -83,7 +83,7 @@ p {
 @media (min-width: 992px) {
   .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
     float: left;
-    padding-top: 10px;
+    padding-top: 0px;
   
   }
   .col-lg-1 {
