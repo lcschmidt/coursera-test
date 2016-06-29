@@ -44,7 +44,7 @@ p {
 	height: 50px;
 	width: 150px;
 	float: right;
-	padding-top: 0px;
+	padding: 0px;
 	color: #000000; /*black*/
 }
 
@@ -55,7 +55,7 @@ p {
 	height: 50px;
 	width: 150px;
 	float: right;
-	padding-top: 0px;
+	padding: 0px;
 	color: #FFFFFF; /*white*/
 }
 
@@ -67,7 +67,7 @@ p {
 	width: 150px;	
 	color: gray; 
 	float: right;
-	padding-top: 0px;
+	padding: 0px;
 }
 
 
